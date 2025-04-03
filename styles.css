@@ -36,7 +36,6 @@
 /* Desafio plus */
 .conteudo > p:nth-of-type(3) {
   color: purple;
-  vertical-align: sub;
 }
 
 .cabecalho > p:nth-of-type(3) {
